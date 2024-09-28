@@ -19,10 +19,10 @@ Goals:
 The goal of this project is to develop an effective IDS that can enhance network security by detecting and preventing unauthorized access or attacks in real time.
 
 Project Members:
-Deevyansh Chhabra
-Shubham Goswami
-Akshat Nogaraiya
-Ashish Ojha
+Deevyansh Chhabra,
+Shubham Goswami,
+Akshat Nogaraiya,
+Ashish Ojha,
 Vivek Kumar
 
 Supervisor:
